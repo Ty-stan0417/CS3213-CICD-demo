@@ -58,3 +58,4 @@ jobs:
       # Run your test
       - name: Check Documentation
         run: #TODO: Add your test here (simply call the python file we provided)
+          python CS3213_check_doc.py
